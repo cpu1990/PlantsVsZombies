@@ -6,7 +6,7 @@
 * **如果你是游戏开发从业者想做一些类似的游戏，这个项目可能会帮到你或给你一些启发**
 * *!!! 重要*  **这个游戏模仿了原版植物大战僵尸。不要用于商业用途，否则后果自负**
 
-[exe文件下载 https://blog.csdn.net/qq_40630246/article/details/102643196](https://blog.csdn.net/qq_40630246/article/details/102643196)
+[exe文件下载 https://blog.csdn.net/qq_40630246/article/details/102643196](https://blog.csdn.net/qq_40630246/article/details/102643196) <br>
 [视频演示 https://www.bilibili.com/video/av83295018/](https://www.bilibili.com/video/av83295018/)<br>
 
 ## 项目说明<br>
@@ -17,7 +17,7 @@
 - 如果发现程序有什么问题或者对游戏有什么建议可以发送到我的qq：2117610943或者Emal：2117610943@qq.com。
 
 ## 项目类图
-![ClassDiagram](https://github.com/ErLinErYi/PlantsVsZombies/raw/master/ClassDiagram.png)
+![ClassDiagram](https://images.gitee.com/uploads/images/2020/0410/100832_1b7a6226_5747827.png)
 
 ## 运行示例
 ![Image(图片)](https://images.gitee.com/uploads/images/2020/0410/100509_47e0e4fa_5747827.png)
@@ -30,9 +30,9 @@
 ***注意！！！该项目不能直接运行，因为缺少游戏所需要的资源文件。（由于资源文件可能存在侵权问题，所以被移除。如果特别需要并且只是在学习的情况下可以向我索要该资源包。唯一的要求：把star点亮，并截图发给我以证明。如果您觉得这很困难，请您退出此仓库。）***
 
 ## Last（最后）
-**Author: LZ**
-**QQ: 2117610943**
-**Email: 2117610943@qq.com** 
+**Author: LZ**<br>
+**QQ: 2117610943**<br>
+**Email: 2117610943@qq.com** <br>
 **Programming capacity is limited, please understand**<br>
 
 ### License
